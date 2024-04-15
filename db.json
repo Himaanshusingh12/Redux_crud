@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "id": "1710759825346",
+      "name": "Himanshu singh",
+      "email": "Himanshu@gmail.com",
+      "password": "dhgjdhgkjdfhskjk",
+      "mobile": "8769567834",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg",
+      "status": "Unblock"
+    },
+    {
+      "id": "1711537398494",
+      "name": "Ashish rajput",
+      "email": "ash@gmail.com",
+      "password": "6785",
+      "mobile": "08795585567",
+      "img": "https://th.bing.com/th?id=OIP.Lhmgf9kXdh0rOykwpemzXwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+    }
+  ]
+}
